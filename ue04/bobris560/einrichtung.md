@@ -16,11 +16,7 @@
 
 
 ## Antwort des Agenten geprüft
-
-<!-- Aufgabe 2, Schritt 8: Vergleichen Sie die Antwort des Agenten in
-     sitzung.md mit dem, was Sie selbst wissen. Hat er alle Ihre Dateien
-     gefunden? Hat er etwas Fremdes für Ihres gehalten oder etwas erfunden?
-     Zwei bis drei Sätze. -->
+Der Agent hat alle meine Dateien gefunden: den Steckbrief aus Übung 1 (nur auf dem Branch steckbrief-moh), meine Dateien aus Übung 3 unter dem Kürzel moh sowie das neue Verzeichnis ue04/bobris560/. Er hat nichts Fremdes für meines gehalten und nichts erfunden; bei dem Kürzel moh hat er sogar um Bestätigung gebeten, statt es einfach anzunehmen. Dass in ue02 kein Beitrag von mir liegt, stimmt ebenfalls.
 
 …
 
